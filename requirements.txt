@@ -1,0 +1,7 @@
+tqdm
+argparse
+easyocr
+cv
+numpy
+fitz
+pandas
