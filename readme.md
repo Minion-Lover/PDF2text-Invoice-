@@ -1,4 +1,4 @@
-## <h1 style="text-align: center;">PDF2TEXT(Invoice) code</1>
+## <h1 style="text-align: center;">PDF2TEXT(Invoice) code</h1>
 -----------------
 
 This is <b>pdf2text</b> code using <b>easyocr</b>.
@@ -7,9 +7,9 @@ Example:
 --------------------
 <div style="text-align: center;">
     <img src = "./style1.png"><br>
-    <b style="text-align: center;">Style one</b><br>
+    <b>Style one</b><br>
     <img src = "./style2.png"><br>
-    <b style="text-align: center;">Style Two</b>
+    <b>Style Two</b>
 </div>
 
 
