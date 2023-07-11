@@ -7,9 +7,9 @@ Example:
 --------------------
 <div style="text-align: center;">
     <img src = "./style1.png"><br>
-    <h2>Style one</h2><br>
+    <h2 style="text-align: center;">Style one</h2><br>
     <img src = "./style2.png"><br>
-    <h2>Style Two</h2>
+    <h2 style="text-align: center;">Style Two</h2>
 </div>
 
 
